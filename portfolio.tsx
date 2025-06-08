@@ -530,7 +530,7 @@ export default function Portfolio() {
       <footer className="py-8 border-t border-white/10 bg-black/20 backdrop-blur-md relative">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl text-center">
           <p className="text-sm text-white/60">
-            © 2024 Guilherme Vieira. Feito com{" "}
+            © 2025 Guilherme Vieira. Feito com{" "}
             <Heart className="inline w-4 h-4 text-red-400 animate-pulse" /> e
             muito ☕
           </p>
